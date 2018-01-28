@@ -1,0 +1,5 @@
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\bin\Debug\ComRegister.exe
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\bin\Debug\ComRegister.pdb
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\obj\Debug\ComRegister.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\obj\Debug\ComRegister.exe
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\obj\Debug\ComRegister.pdb

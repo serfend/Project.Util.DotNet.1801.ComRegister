@@ -1,0 +1,6 @@
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\bin\Release\ComRegister.exe
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\bin\Release\ComRegister.pdb
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\obj\Release\ComRegister.csproj.CoreCompileInputs.cache
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\obj\Release\ComRegister.exe
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\obj\Release\ComRegister.pdb
+D:\aserfend\workSpace\repos\projects\ComRegister\ComRegister\obj\Release\ComRegister.csprojResolveAssemblyReference.cache
